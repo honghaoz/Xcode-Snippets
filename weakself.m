@@ -1,8 +1,10 @@
 // __weak self
 // Declare weak referece to self
-// 
-// Platform: All
+//
+// IDECodeSnippetIdentifier: 26CD40B2-4285-4AC5-A9CF-AF6B66476B10
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 __weak typeof(self)weakSelf = self;
