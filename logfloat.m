@@ -6,4 +6,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-NSLog(@"%f", <#float#);
+NSLog(@"%f", <#float#>);
