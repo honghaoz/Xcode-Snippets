@@ -7,5 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-CGFloat red = 0.0, green = 0.0, cirBlue = 0.0, cirAlpha =0.0;
+CGFloat red = 0.0, green = 0.0, blue = 0.0, alpha =0.0;
     [cirColor getRed:&cirRed green:&cirGreen blue:&cirBlue alpha:&cirAlpha];
