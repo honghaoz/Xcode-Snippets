@@ -7,5 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"<#title#>" message:@"message" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil];
+UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"<#title#>" message:@"<#message#>" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil];
                                         [alertView show];
