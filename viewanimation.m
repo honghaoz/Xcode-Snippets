@@ -9,7 +9,7 @@
 // IDECodeSnippetVersion: 2
 [UIView animateWithDuration:0.5
                           delay:0.0
-                        options:UIViewAnimationOptionAllowUserInteraction
+                        options:UIViewAnimationOptionAllowUserInteraction | UIViewAnimationCurveEaseInOut | UIViewAnimationOptionBeginFromCurrentState
                      animations:^{
                          <#operation#>
                      }
