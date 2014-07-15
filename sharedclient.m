@@ -7,9 +7,9 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-static <Class#> *_sharedClient = nil;
+static <#Class#> *_sharedClient = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
-        _sharedClient = [[UWColorSchemeCenter alloc] init];
+        _sharedClient = [[<#Class#> alloc] init];
     });
     return _sharedClient;
