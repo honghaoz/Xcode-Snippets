@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-NSLog(@"%@", NSStringFromCGRect(self.frame));
+NSLog(@"%@", NSStringFromCGRect(<#frame#>));
