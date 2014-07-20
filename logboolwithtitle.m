@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-NSLog(@"<> %@", highlighted? @"YES" : @"NO");
+NSLog(@"<#Title#> %@", highlighted? @"YES" : @"NO");
