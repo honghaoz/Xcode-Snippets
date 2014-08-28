@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-NSLog(@"-[%@ %@]", NSStringFromClass(self.class),NSStringFromSelector(_cmd)); // Log out method name
+NSLog(@"ZHH: [%@ %@]", NSStringFromClass(self.class),NSStringFromSelector(_cmd)); // Log out method name
