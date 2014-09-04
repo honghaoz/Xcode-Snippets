@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: 
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 9AB0DA7B-D4A4-4B90-8288-6F882D1B1675
+// IDECodeSnippetIdentifier: F57FAC5E-2DEC-4EC9-9485-5323F4B8A391
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 NSUInteger index = [<#indexSet#> firstIndex];
 while (index != NSNotFound) {
     <#statements#>
